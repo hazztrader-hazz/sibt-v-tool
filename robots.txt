@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hazztrader-hazz.github.io/sibt-v-tool/sitemap.xml
